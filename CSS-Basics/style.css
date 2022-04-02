@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Send+Flowers&display=swap');
+
+body{
+    background-color: #ffcccc;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.box-1{
+    background-color: lightblue;
+    padding: 10px;
+}
+
+h1{
+    color: darkblue;
+}
+
+h3{
+    color: hsl(60, 100%, 15%);
+}
+
+p{
+    color: rgb(65, 3, 60);
+    font-family: 'Send Flowers', Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#second-p{
+    color: rgb(75, 94, 6);
+    font-family:  Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+}
+
+.my-form{
+    padding: 20px;
+}
+
+.my-form .form-group{
+    padding-bottom: 15px;
+}
+
+.my-form label{
+    display: block;
+}
+
+.my-form .input-type{
+    padding: 8px;
+    width: 100%;
+}
+
+.button{
+    padding: 10px;
+    border: none;
+    background-color: darkblue;
+    color: white;
+    border-radius: 5px;
+    text-transform: uppercase;
+}
+
+.button:hover{
+    background-color: darkmagenta;
+    cursor: pointer;
+}
+
